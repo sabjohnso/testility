@@ -1,0 +1,9 @@
+*~
+[Bb]uild
+[Rr]elease
+[Dd]ebug
+*.obj
+*.o
+*.so
+*.exe
+*.a
